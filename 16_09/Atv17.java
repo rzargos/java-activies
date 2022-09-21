@@ -22,7 +22,7 @@ public class Atv17 {
                 salT = salT + sal;
             }
             numFT = numF + numFT;
-            count = count + 1;
+            count++;
         }
 
         mediaS = salT / count;
