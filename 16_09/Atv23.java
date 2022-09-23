@@ -18,6 +18,6 @@ public class Atv23 {
             somaIdades += idade;
         }
         System.out.println(String.format("%s tem peso maior que 90kg", quantPessoas90kg));
-        System.out.println(String.format("A media da idade das pessoas é de %s", somaIdades/7));
+        System.out.println(String.format("A média de idade das pessoas é de %sKgs", somaIdades/7));
     }
 }
