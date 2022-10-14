@@ -18,7 +18,7 @@ public class Atv26 {
         for (i = 0; i <= 3; i++) {
             System.out.println("As notas são: " + vetor[i]);
         }
-        
+     
         media = media / 4;
         System.out.print("A média das notas é de: " + media);
     }
