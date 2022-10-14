@@ -1,9 +1,8 @@
 import java.util.*;
 
 public class Atv26 {
-
+    private static Scanner input = new Scanner (System.in);
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
 
         double vetor[] = new double[4], media = 0;
         int i = 0, n = 1;
