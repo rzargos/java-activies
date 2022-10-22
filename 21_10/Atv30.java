@@ -18,7 +18,7 @@ public class Atv30 {
             }
 
             if (vet[i] > 50) {
-                mais50[i] = i;
+                mais50[i] = n;
             }
 
             media = media + vet[i];
