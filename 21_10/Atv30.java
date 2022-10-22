@@ -45,7 +45,6 @@ public class Atv30 {
         }
 
         if (maior50 > 0) {
-
             System.out.format("A quantidade de pessoas com idade superior a 50 foi de %s\n", maior50);
         }
 
