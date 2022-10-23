@@ -47,14 +47,13 @@ public class Atv30 {
         if (maior50 > 0) {
             System.out.format("A quantidade de pessoas com idade superior a 50 foi de %s\n", maior50);
         }
+        
+        System.out.format("A quantidade de pessoas com idade maior que a média foi de %s\n", maiorMedia);
+        System.out.format("A quantidade de pessoas com idade abaixo da média foi de %s\n", menorMedia);
+        System.out.format("A média das idades foi %s\n", media);
 
         if (maiorIgual18 > 0) {
             System.out.format("Existem %s pessoas com a idade maior ou igual a 18\n", maiorIgual18);
         }
-
-        System.out.format("A média das idades foi %s\n", media);
-        System.out.format("A quantidade de pessoas com idade maior que a média foi de %s\n", maiorMedia);
-        System.out.format("A quantidade de pessoas com idade abaixo da média foi de %s\n", menorMedia);
-
     }
 }
