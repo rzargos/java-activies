@@ -12,7 +12,6 @@ public class Atv32 {
             for (int v = 0; v < 2; v++) {
                 System.out.println("Insira um valor inteiro");
                 matriz[h][v] = input.nextInt();
-
             }
         }
         
